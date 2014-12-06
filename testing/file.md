@@ -8,7 +8,7 @@ Version	Comments	Author	Date
 0.3	Revised validation around planned attendees and AGM dates	Andy M	05/12
 
 ##2.	Brief Description
-Allows relevant users to edit the upcoming AGM details for a GP. For new Managed GPs the Upcoming AGM is not active. This allows users to activate the upcoming AGM details, entering the meeting date and whether it is confirmed, the frequency and location, and planned attendees. They can update an active upcoming AGM to not active at any time and it will clear the previously saved AGM details.
+Allows relevant users to edit the upcoming AGM details for a GP. For new Managed GPs the Upcoming AGM is not active. This allows users to activate the upcoming AGM details, entering the meeting date and whether it is confirmed, the frequency and location, and planned attendees. They can update an active upcoming AGM to not active at any time and it will clear the previously saved AGM details. whatssup
 
 ##3.	Actor(s)
 Investment Team User 
